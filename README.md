@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack(Backend)**
 
-- 👨‍💻 All of my projects are available at [https://anmolsingh8445.github.io/portfolio/](https://anmolsingh8445.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://anmolsingh8445.github.io/Portfolio/](https://anmolsingh8445.github.io/Portfolio/)
 
 - 💬 Ask me about **react,javascript**
 
